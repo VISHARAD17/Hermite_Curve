@@ -11,6 +11,6 @@
 - After running the above command GUI for the plot looks like this :
 
 ## Installation of the required libraries
-- `pip install PyQt5'
-- `pip install matplotlib'
+- `pip install PyQt5`
+- `pip install matplotlib`
 - `pip install numpy`
