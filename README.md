@@ -9,7 +9,7 @@
 ## Running file
 - `python3 app.py` or `python app.py`
 - After running the above command GUI for the plot looks like this :
-- ![Image of the GUI](hermite.png)
+![Image of the GUI](hermite.png)
 
 ## Installation of the required libraries
 - `pip install PyQt5`
