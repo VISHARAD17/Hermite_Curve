@@ -15,3 +15,8 @@
 - `pip install PyQt5`
 - `pip install matplotlib`
 - `pip install numpy`
+
+## participants :
+- Visharad
+- Lokesh
+- Govind
