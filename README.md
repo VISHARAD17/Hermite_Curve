@@ -16,7 +16,7 @@
 - `pip install matplotlib`
 - `pip install numpy`
 
-## participants :
+## Participants :
 - Visharad
 - Lokesh
 - Govind
