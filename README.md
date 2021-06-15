@@ -20,3 +20,5 @@
 - Visharad
 - Lokesh
 - Govind
+
+### Slides for the presentation is Hermite Curve.pdf
