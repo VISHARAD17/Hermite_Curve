@@ -21,4 +21,4 @@
 - Lokesh
 - Govind
 
-### Slides for the presentation is Hermite Curve.pdf
+#### Slides for the presentation/ Explanation about the development of this GUI app are [Here](some link)
