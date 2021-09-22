@@ -21,4 +21,4 @@
 - Lokesh
 - Govind
 
-#### Slides for the presentation/ Explanation about the development of this GUI app are [Here](some link)
+#### Slides for the presentation/ Explanation about the development of this GUI app are [Here](https://github.com/VISHARAD17/Hermite_Curve/blob/main/Hermite%20Curve.pdf)
