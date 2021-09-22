@@ -7,6 +7,7 @@
  - GUI for the Hermite Curve is devloped using PyQt5 and Matplotlib.
  
 ## Running file
+- `cd` to the downloaded directory
 - `python3 app.py` or `python app.py`
 - After running the above command GUI for the plot looks like this :
 ![Image of the GUI](hermite.png)
